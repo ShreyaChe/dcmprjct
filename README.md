@@ -1,2 +1,2 @@
 # dcmprjct
-test project
+Test project for reading dcm files and displaying tags 
